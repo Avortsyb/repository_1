@@ -1,0 +1,8 @@
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\bin\Debug\1_laba_oop.exe.config
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\bin\Debug\1_laba_oop.exe
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\bin\Debug\1_laba_oop.pdb
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\obj\Debug\1_laba_oop.csproj.AssemblyReference.cache
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\obj\Debug\1_laba_oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\obj\Debug\1_laba_oop.csproj.CoreCompileInputs.cache
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\obj\Debug\1_laba_oop.exe
+C:\Users\bystr\source\repos\1_laba_oop\1_laba_oop\obj\Debug\1_laba_oop.pdb
